@@ -962,6 +962,10 @@ input, select, textarea {
 		table .link_to_project{
 			vertical-align: middle;
 		}
+		table .link_to_end{
+			vertical-align: middle;
+			border-bottom: none;
+		}
 
 		table th {
 			color: #ffffff;
