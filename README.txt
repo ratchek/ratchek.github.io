@@ -8,7 +8,7 @@ and a cool depth effect (click on a menu item to see what I mean). Simple, fully
 responsive, and kitted out with all the usual pre-styled elements you'd expect.
 Hope you dig it :)
 
-Ddemo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
 (* = not included)
